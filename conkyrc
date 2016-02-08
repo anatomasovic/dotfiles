@@ -34,7 +34,7 @@ override_utf8_locale no
 # Output #
 ##########
 TEXT
-${color #FFFFFF}${font Ostrich Sans:pixelsize=28}Debian Stretch - $kernel
+${color #FFFFFF}${font Ostrich Sans:pixelsize=28}Debian Jessie - $kernel
 
 ${color #FFFFFF}${font Ostrich Sans:pixelsize=35}Uptime: $uptime
 
